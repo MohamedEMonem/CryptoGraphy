@@ -13,7 +13,7 @@ public class Main {
         getP(scan.nextLong());
         System.out.print("upper limit for q : ");
         getQ(scan.nextLong());
-        prep();
+        // prep();
         System.out.println("p: " + p + "\nq: " + q + "\nn : " + n + "\nm : " + m + "\ne : " + e + "\nd : " + d);
         System.out.print("Enter original message : ");
         pl = scan.nextLine();
